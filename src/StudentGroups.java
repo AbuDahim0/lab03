@@ -10,9 +10,6 @@ public class StudentGroups {
         students.add("Alice");
         students.add("Bob");
         students.add("Charlie");
-        students.add("David");
-        students.add("Eve");
-        students.add("Frank");
         students.add("Hannah");
         students.add("Omar");
 
@@ -21,7 +18,7 @@ public class StudentGroups {
 
         // Print the groups
         for (int i = 0; i < groups.size(); i++) {
-            System.out.println("Group " + (i + 1) + ": " + groups.get(i));
+            System.out.println("Group " + (i - 1) + ": " + groups.get(i));
         }
     }
 
