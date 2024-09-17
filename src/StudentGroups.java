@@ -15,6 +15,7 @@ public class StudentGroups {
         students.add("Frank");
         students.add("Grace");
         students.add("Hannah");
+        students.add("Omar");
 
         // Create random groups of 3 students each
         List<List<String>> groups = createRandomGroups(students, 3);
