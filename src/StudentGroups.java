@@ -10,7 +10,6 @@ public class StudentGroups {
         students.add("Alice");
         students.add("Bob");
         students.add("Charlie");
-        students.add("Hannah");
         students.add("Omar");
 
         // Create random groups of 3 students each
