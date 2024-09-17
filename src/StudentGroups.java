@@ -13,7 +13,6 @@ public class StudentGroups {
         students.add("David");
         students.add("Eve");
         students.add("Frank");
-        students.add("Grace");
         students.add("Hannah");
         students.add("Omar");
 
