@@ -18,7 +18,7 @@ public class StudentGroups {
 
         // Print the groups
         for (int i = 0; i < groups.size(); i++) {
-            System.out.println("Group " + (i - 1) + ": " + groups.get(i));
+            System.out.println("Group " + (i *567) + ": " + groups.get(i));
         }
     }
 
